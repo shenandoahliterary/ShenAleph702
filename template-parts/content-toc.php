@@ -501,12 +501,12 @@ foreach ($authornames as $author_id=>$author_lastname) { ?>
 
 		</div>
 <p>&nbsp;</p>
-		<h3>Novel Excerpt</h3>
+		<h3>Conversation</h3>
 		<div>
 			<?php
 			remove_all_filters('posts_orderby');
 			$novel_excerpt_args = array(
-				'category_name' => 'novel-excerpt',
+				'category_name' => 'conversations',
 				'order' => 'ASC',
 				'meta_key' => 'TOC_order',
 				'orderby' => 'meta_value_num',
