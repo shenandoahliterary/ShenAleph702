@@ -74,7 +74,7 @@ $upload_path =  $uploads['baseurl'];
 
 				foreach ($authornames as $author_id=>$author_lastname) {
 					$args = array(
-				'category_name' => 'fiction',
+				'category_name' => 'guest-nonfiction',
 				'author' => $author_id,
 				'orderby' => 'date',
 				'order' => 'asc',
