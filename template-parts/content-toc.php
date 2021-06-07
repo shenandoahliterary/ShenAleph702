@@ -13,7 +13,7 @@ $upload_path =  $uploads['baseurl'];
 	?>
 <img  class="img-fluid cover-image m-auto" src="<?php echo $upload_path ?>/2020/12/Art-Horn-of-Plenty-Travis-1k.jpg">
 </div>
-<p class="text-right art-credit"><em>Horn of Plenty_Discrete</em>, <a href="https://www.travishead.com/" target="_blank">Travis Head</a>, gouache and watercolor on paper, 15 x 22", 2019</p>
+<p class="text-right art-credit"><em>...</em>, <a href="" target="_blank">Leigh Ann Beavers</a>, ...</p>
 <!--
 <div class="row volumeIssue">
 	<div class="col-4 text-center">
