@@ -414,7 +414,7 @@ wp_reset_postdata();
 
 	</div> <!-- close column -->
 	<div class="col-md-4 offset-md-1">
-		<h3>Poetry</h3>
+		<h3>Poetry: A <a href="">Grimoire</a></h3>
 		<div>
 
 			<?php
