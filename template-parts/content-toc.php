@@ -33,7 +33,8 @@ $upload_path =  $uploads['baseurl'];
 <div class="row">
 	<div class="col-md-4 offset-md-1 TOC-column-1">
 
-		<h3>Guest Edited Nonfiction</h3>
+		<h3><em>Home</em>,<br>
+		Nonfiction guest edited by DW McKinney</h3>
 		<div>
 			<?php
 			remove_all_filters('posts_orderby');
