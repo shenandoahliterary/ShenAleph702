@@ -386,8 +386,9 @@ foreach ($authornames as $author_id=>$author_lastname) { ?>
 
 	</div> <!-- close column -->
 	<div class="col-md-4 offset-md-1">
-		<h3>Comics,<br>
-		guest edited by Rachelle Cruz</h3>
+		<h3>Comics<br>
+		guest edited by<br>
+		Rachelle Cruz</h3>
 			<div>
 				<?php
 				remove_all_filters('posts_orderby');
