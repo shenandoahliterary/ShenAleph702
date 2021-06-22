@@ -643,9 +643,23 @@ body {
 	 margin-bottom: 2.5rem !important;
  }
 
+
+/* 6/22/202:
+Revised stanza-break in poetry to equal the default settings between paragraphs for poetry Content
+The old stanza break formatting added too much space. This change is caused by the new process
+for copying/pasting poetry text from Word into the <pre></pre> tag of a post. Previously, the pre tags were not used for poetry.
+
+.stanza-break {
+ margin-top: 1.25rem !important;
+ margin-bottom: 0.25rem !important;
+}
+
+
+ */
+
  .stanza-break {
- 	margin-top: 1.25rem !important;
- 	margin-bottom: 0.25rem !important;
+ 	margin-top: 0em !important;
+ 	margin-bottom: 0 !important;
  }
 
 
