@@ -424,7 +424,7 @@ foreach ($authornames as $author_id=>$author_lastname) { ?>
 
 
 
-		<h3>Poetry: A <a href="">Grimoire</a></h3>
+		<h3>Poetry</h3>
 		<div>
 
 			<?php
