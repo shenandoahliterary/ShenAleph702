@@ -30,6 +30,15 @@ $upload_path =  $uploads['baseurl'];
 </section>
 
 <section class="container TOCsection">
+
+	<div class="row">
+		<div class="col-md-8 offset-md-2 single-space-paragraphs">
+	<p><a href="https://shenandoahliterary.org/702/editors-note/">Editor&rsquo;s Note</a><br /><span class="author_name">Beth Staples</span></p>
+		</div>
+	</div>
+
+
+
 <div class="row">
 	<div class="col-md-4 offset-md-1 TOC-column-1">
 
