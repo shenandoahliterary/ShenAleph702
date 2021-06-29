@@ -11,7 +11,7 @@ $uploads = wp_upload_dir();
 $upload_path =  $uploads['baseurl'];
 /* need to set image in admin dashboard */
 	?>
-<img  class="img-fluid cover-image m-auto" src="<?php echo $upload_path ?>/2020/12/Art-Horn-of-Plenty-Travis-1k.jpg">
+<img  class="img-fluid cover-image m-auto" src="<?php echo $upload_path ?>/2021/06/Art-FlattenedFlowers09-1038x1310-1.jpg">
 </div>
 <p class="text-right art-credit"><em>...</em>, <a href="" target="_blank">Leigh Ann Beavers</a>, ...</p>
 <!--
