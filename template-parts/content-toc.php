@@ -13,7 +13,7 @@ $upload_path =  $uploads['baseurl'];
 	?>
 <img  class="img-fluid cover-image m-auto" src="<?php echo $upload_path ?>/2021/06/Art-FlattenedFlowers09-507x640-1.jpg">
 </div>
-<p class="text-right art-credit"><em>&rsquo;whitethorn project: flattened whitethorn bouquet study no. 5,”</em><br><a href="" target="_blank">Leigh Ann Beavers</a>, collage, relief print, watercolor. </p>
+<p class="text-right art-credit"><em>&ldquo;whitethorn project: flattened whitethorn bouquet study no. 5,”</em><br><a href="" target="_blank">Leigh Ann Beavers</a>, collage, relief print, watercolor. </p>
 <!--
 <div class="row volumeIssue">
 	<div class="col-4 text-center">
