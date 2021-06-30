@@ -108,7 +108,6 @@ $my_custom_field = $custom_fields['translator_lastname'];
 
 //add 2nd translator.
 //this can be really optimized!
-<?php
 
 $my_custom_field = $custom_fields['second_translator'];
 
