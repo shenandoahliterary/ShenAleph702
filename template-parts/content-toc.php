@@ -525,7 +525,7 @@ foreach ($authornames as $author_id=>$author_lastname) { ?>
 			<?php
 			remove_all_filters('posts_orderby');
 			$novel_excerpt_args = array(
-				'category_name' => 'conversations',
+				'category_name' => 'conversation',
 				'order' => 'ASC',
 				'meta_key' => 'TOC_order',
 				'orderby' => 'meta_value_num',
@@ -605,7 +605,7 @@ if ($query->have_posts()) :
 			<?php
 			$args = array(
 			  //  'category_name'         => 'feature',
-				'category_name'         => 'Behind the Essay,Conversations',
+				'category_name'         => 'Behind the Essay,Conversation',
 
 			);
 			$category_posts = new WP_Query($args);
