@@ -605,7 +605,7 @@ if ($query->have_posts()) :
 			<?php
 			$args = array(
 			  //  'category_name'         => 'feature',
-				'category_name'         => 'Behind the Essay,Conversation',
+				'category_name'         => 'Behind the Essay,Conversations',
 
 			);
 			$category_posts = new WP_Query($args);
